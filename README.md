@@ -1,10 +1,7 @@
 ### Hi, I am Suleman Zakaria, welcome to my page👋
 <img align="right" src="https://user-images.githubusercontent.com/63692930/130341112-368df18d-9c0e-435d-bcf8-9e3e8b1c441d.jpg" />
 
-
-
-
-I am a Data Scientist with a post graduate degree in Mathematics (MSc Mathematics)
+### Summary
 - 🔭 Currently working on Climate Change Projects using Deep Learning Models
 - 🌱 Learning Google IT Support Professional Course on Coursera
 - 👯 I’m looking to collaborate on Machine Learning, AI Research and Mathematical Modelling
