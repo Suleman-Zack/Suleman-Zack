@@ -5,12 +5,12 @@
 
 
 I am a Data Scientist with a post graduate degree in Mathematics (MSc Mathematics)
-- 🔭 I’m currently working on Climate Change Projects using Deep Learning Models
-- 🌱 I’m currently learning Google IT Support Professional Course on Coursera
+- 🔭 Currently working on Climate Change Projects using Deep Learning Models
+- 🌱 Learning Google IT Support Professional Course on Coursera
 - 👯 I’m looking to collaborate on Machine Learning, AI Research and Mathematical Modelling
-- 🤔 I’m looking to help with Data Science, Machine Learning, Statistics and Mathematical Problems
+- 🤔 Ready to help with Data Science, Machine Learning, Statistics and Mathematical Problems
 - 💬 Ask me about Mathematics, Data Science and Reliability of Systems
-- 📫 You can reach me via alhajizack9@gmail.com.com
+- 📫 Reach me via alhajizack9@gmail.com.com
 - 🥅 2021 Goals: Contribute more to Open Source projects and work on climate change data
 
 ### Connect with me: [Linkedin](www.linkedin.com/in/sulemanzack/)
