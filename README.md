@@ -1,4 +1,4 @@
-### Hi, I am Suleman, welcome to my page👋
+### Hi, I am Zack, welcome to my page👋
 <img align="right" with='300' src="https://user-images.githubusercontent.com/63692930/130341112-368df18d-9c0e-435d-bcf8-9e3e8b1c441d.jpg" />
 
 ### Summary
